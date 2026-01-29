@@ -9,4 +9,4 @@ Currently designing data and AI platform experiences.
 Outside of work I make music and mess with sound, texture, and generative ideas.
 
 📍 Madison, WI, US • US/UK Citizen  
-🔗 Portfolio: <www.simonduncan.co>
+🔗 Portfolio: www.simonduncan.co
